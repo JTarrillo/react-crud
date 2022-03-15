@@ -12,6 +12,7 @@ Desarrolando una  aplicación web con React y una API externa para realizar oper
 
 react-router-dom para administrar la ruta y la ruta dentro de nuestra aplicación.
 
+//Crear II Usuarios luego actualizar y eliminar uno de ellos 
 
 En nuestro componentes utilizaremos diferentes url de la api mecallapi para realizar nuestro crud
 
